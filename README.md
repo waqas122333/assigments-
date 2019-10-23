@@ -1,2 +1,2 @@
 # assigments-
-Name muhammad waqas naseercomputer science 2019-23
+Name muhammad waqas naseer computer science 2019-23
