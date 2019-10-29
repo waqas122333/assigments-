@@ -4,6 +4,7 @@ Name muhammad waqas naseer computer science 2019-23
 
 
 #include<stdio.h>
+
 int main()
 {
  float time,result;
@@ -16,12 +17,25 @@ printf("\n\tenter choice\t");
 scanf("%d",&choice);
 if(choice==1)
 {
-result=time/3600000;
+result=time*3600000;
 }
 else if(choice==2)
 {
-result=time*3600000;
+result=time/3600000;
 }
 printf("\n\n\tresult=%f",result);
 return 0;
 }
+
+Psude code 
+
+1-Display a message enter "time"
+2-take input from user 
+3-Display available choices 
+4-take input from user
+5-perform conversation 
+6-if (choice==1) then 
+7-Result = time*3600000
+8-else if (choice==2) then 
+9- result= time /3600000
+10-Display result 
